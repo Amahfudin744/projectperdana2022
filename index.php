@@ -3,7 +3,7 @@
 <h1>MY FIRST PHP PAGE</h1>
 
 <?php
-echo "hello word!";
+echo "hello gaes!";
 ?>
 </body>
 </html>
